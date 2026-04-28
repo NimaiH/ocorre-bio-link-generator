@@ -1,0 +1,13 @@
+# Pastas de sistema e ambiente virtual
+__pycache__/
+.venv/
+.env
+
+# Rascunhos e arquivos antigos
+legacy/
+gerador.py
+testes/
+
+# Arquivos de sistema
+Thumbs.db
+desktop.ini
